@@ -2,7 +2,6 @@ import {
   HighlightsSvg,
   LiveSvg,
   NewsSvg,
-  ShopSvg,
   StandingsSvg,
 } from "../assets/editable-svgs";
 import logo from "../assets/logo.png";
